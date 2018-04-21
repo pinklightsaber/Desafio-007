@@ -12,10 +12,10 @@ body{
 	}
 	.jumbotron {
 		background-image: url("images/bg.jpeg");
-		background-size: cover;
+		background-size: 100%;
 		text-align: center;
 		color: white;
-		padding: 8%;
+		padding: 4%;
 
 	}
 
@@ -46,3 +46,4 @@ body{
 	.vv {
 		padding: 15px;
 	}
+	
